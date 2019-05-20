@@ -1,0 +1,9 @@
+ Tiny 16-bit Tetris for Boot Diskette ;)
+
+ Sources:
+
+ To compile this you need BP7 and BP7-OS2 by Matthias Withopf.
+ crt.pas - replacement for original file from BP7-OS2. It correctly handle
+   non-standart videomodes (other, than 80x25).
+ os2.pas - expanded OS2_16.PAS from this package
+ tetris.pas was founded somethere in net and quickly adopted for OS/2 ;)
